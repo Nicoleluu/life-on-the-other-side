@@ -1,0 +1,233 @@
+[
+  {
+    "file": "data/raw/gsni2023.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/publications/additional-files/2023-06/GSNI2023_AnnexTables2.xlsx",
+    "accessed": "2026-10-28",
+    "bytes": 139541,
+    "sha256": "6afeee49d20a701f83fd01bbba7049ea55ebf4c669de6f9d98b5984ec439811c"
+  },
+  {
+    "file": "data/raw/metadata_NY.GDP.PCAP.PP.KD.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.PP.KD?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 2444,
+    "sha256": "55af4b25be9dc57c2865bc4a208710e7405b00306f8381038d884841d3b1e686"
+  },
+  {
+    "file": "data/raw/metadata_PA.NUS.FCRF.json",
+    "url": "https://api.worldbank.org/v2/indicator/PA.NUS.FCRF?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 685,
+    "sha256": "879ac40c1e115d0575c0ac1d26a45b68432303927ea163be9c80e7f47c739b12"
+  },
+  {
+    "file": "data/raw/metadata_PA.NUS.PPPC.RF.json",
+    "url": "https://api.worldbank.org/v2/indicator/PA.NUS.PPPC.RF?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 1095,
+    "sha256": "a4ba06fb3182f804cdcf1f7c58ebeed5a8bfe50954a7518a444c1dd571543b23"
+  },
+  {
+    "file": "data/raw/metadata_PA.NUS.PRVT.PP.json",
+    "url": "https://api.worldbank.org/v2/indicator/PA.NUS.PRVT.PP?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 1491,
+    "sha256": "0ca7d8b20d67e45d95d9b6abb46f9a947c028f8698e95786be150ef410d4b952"
+  },
+  {
+    "file": "data/raw/metadata_SE.TER.ENRR.FE.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.TER.ENRR.FE?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 1074,
+    "sha256": "bcd3e41c99c9a291f6ab5a2993b16a40cf44eb00dfef57ce8997774cb2eca1df"
+  },
+  {
+    "file": "data/raw/metadata_SE.TER.ENRR.MA.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.TER.ENRR.MA?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 1072,
+    "sha256": "5f31f03e28f113d634318d4d4af830f72dd629f45da7889d36ead19022bffc20"
+  },
+  {
+    "file": "data/raw/metadata_SE.TER.ENRR.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.TER.ENRR?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 1034,
+    "sha256": "39dc6d7475cb76cbf8862c283aad1b51ba7f58fca4055e1ed14fbccae7341386"
+  },
+  {
+    "file": "data/raw/metadata_SI.POV.GINI.json",
+    "url": "https://api.worldbank.org/v2/indicator/SI.POV.GINI?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 1494,
+    "sha256": "e377bf82b38024748153880ff90c0106a0ef0fd8cb04761146cc60a2609cab3d"
+  },
+  {
+    "file": "data/raw/metadata_SL.TLF.CACT.FE.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SL.TLF.CACT.FE.ZS?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 833,
+    "sha256": "9f57a27372d29ac71a6a810096c5b73001a8ae1090db6a2fe88f06b06d4daeec"
+  },
+  {
+    "file": "data/raw/metadata_SL.TLF.CACT.MA.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SL.TLF.CACT.MA.ZS?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 831,
+    "sha256": "db4f31a6cdd38110d625e9a6f2194908c30a988385c1a549336503fdc44f6e1c"
+  },
+  {
+    "file": "data/raw/metadata_SM.POP.TOTL.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SM.POP.TOTL.ZS?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 566,
+    "sha256": "5909389c5bddb24490256100dc00e2a6ed9b4ca24bda67585d787bf79ae8cc47"
+  },
+  {
+    "file": "data/raw/metadata_SP.DYN.TFRT.IN.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.DYN.TFRT.IN?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 777,
+    "sha256": "3aec8c45c5a8e7a80b9d797bf4553e4130a3b6c2116c61b81ca1d4ebda3c040d"
+  },
+  {
+    "file": "data/raw/metadata_SP.POP.65UP.TO.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.65UP.TO.ZS?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 571,
+    "sha256": "7e879654023471e82357bde5a072b0197de8e637832e4b61410c56aac6ac82f4"
+  },
+  {
+    "file": "data/raw/metadata_SP.POP.TOTL.FE.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL.FE.ZS?format=json",
+    "accessed": "2026-10-28",
+    "bytes": 748,
+    "sha256": "e578cd566bd3d878367c5004e83c7b043a98114934b2bc07da7d4df373110227"
+  },
+  {
+    "file": "data/raw/oecd_time_details.xlsx",
+    "url": "https://www.oecd.org/content/dam/oecd/en/data/datasets/time-use-database/OECD-time-use-database-updates.xlsx",
+    "accessed": "2026-10-28",
+    "bytes": 376009,
+    "sha256": "6a7ca2e1e5154cdba37709519dbfb0a9ab932cae67ea0112cc2d2e1bf0d7345e"
+  },
+  {
+    "file": "data/raw/oecd_time_structure.xml",
+    "url": "https://sdmx.oecd.org/public/rest/v1/dataflow/OECD.WISE.INE/DSD_TIME_USE@DF_TIME_USE/1.0?references=all",
+    "accessed": "2026-10-28",
+    "bytes": 942891,
+    "sha256": "5c484564b2fba54eef0bace15562a6cb5ccbe170fc579ac5b98f973193a99c17"
+  },
+  {
+    "file": "data/raw/oecd_time_use.csv",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.WISE.INE,DSD_TIME_USE@DF_TIME_USE,1.0/all?format=csvfile",
+    "accessed": "2026-10-28",
+    "bytes": 42367,
+    "sha256": "349949c8decb13a3fcdd2a88e1ecc62ff980b11d60cb2ac1376b80cda8b3dc4f"
+  },
+  {
+    "file": "data/raw/oecd_wages.csv",
+    "url": "https://sdmx.oecd.org/public/rest/v1/data/OECD.ELS.SAE,DSD_EARNINGS@AV_AN_WAGE,1.0/all?startPeriod=2000&endPeriod=2025&format=csvfile",
+    "accessed": "2026-10-28",
+    "bytes": 285376,
+    "sha256": "eec909cffd90232184a6e5abaf7086d082bd02ce7e4756c630e0073e01d691b9"
+  },
+  {
+    "file": "data/raw/wdi_NY.GDP.PCAP.PP.KD.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/NY.GDP.PCAP.PP.KD?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 38459,
+    "sha256": "11a6208d53926922cb76d9a7928c0053d9e028912f9d83074a08700a62824c4e"
+  },
+  {
+    "file": "data/raw/wdi_PA.NUS.FCRF.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/PA.NUS.FCRF?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 37162,
+    "sha256": "00eecc9c6225b3bb408f2ed9e064a6e8ed8d62504ba41e1834e15023a9e7212a"
+  },
+  {
+    "file": "data/raw/wdi_PA.NUS.PPPC.RF.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/PA.NUS.PPPC.RF?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 128,
+    "sha256": "531cfc2a89937bfd09e7b2a4aeac3a5c55b79767ee4dd60ae770fd3629115f38"
+  },
+  {
+    "file": "data/raw/wdi_PA.NUS.PRVT.PP.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/PA.NUS.PRVT.PP?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 44515,
+    "sha256": "f2f52245175e86230877c4dc8af51bfd78026987209347f95bf44c67b0caba24"
+  },
+  {
+    "file": "data/raw/wdi_SE.TER.ENRR.FE.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SE.TER.ENRR.FE?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 36529,
+    "sha256": "06f6ee87dc67fa75b76bdcad2390272046ce7636ada2d5c3f32bc10217422e1e"
+  },
+  {
+    "file": "data/raw/wdi_SE.TER.ENRR.MA.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SE.TER.ENRR.MA?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 36208,
+    "sha256": "3764d7650cc5cbba1ba51e191ec1e98f255e35d4599ea1826cafda76fd64b109"
+  },
+  {
+    "file": "data/raw/wdi_SE.TER.ENRR.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SE.TER.ENRR?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 34850,
+    "sha256": "ac5475fe3f56454e3308a254e0dc0fe0dabd66bcc58181bd68e686075c071f5a"
+  },
+  {
+    "file": "data/raw/wdi_SI.POV.GINI.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SI.POV.GINI?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 29249,
+    "sha256": "8864a11c8bd93c6edf72e2037d9f7e823392bc410c4bdaadce42d4821d05b9f0"
+  },
+  {
+    "file": "data/raw/wdi_SL.TLF.CACT.FE.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SL.TLF.CACT.FE.ZS?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 43751,
+    "sha256": "452869973056168a4cd9bf06efbe271a2de0acf5edd5f193aac94b98ca7bdbf0"
+  },
+  {
+    "file": "data/raw/wdi_SL.TLF.CACT.MA.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SL.TLF.CACT.MA.ZS?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 43136,
+    "sha256": "80e413d2014795997b4fd8dadab387084d0b1ebffacf9f6ae10614e4c4f70a5c"
+  },
+  {
+    "file": "data/raw/wdi_SM.POP.TOTL.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SM.POP.TOTL.ZS?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 35171,
+    "sha256": "ab00f30f7f60853643ad2dc282e47b6c3630e4a8165c08ffdafffc47c77e6704"
+  },
+  {
+    "file": "data/raw/wdi_SP.DYN.TFRT.IN.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SP.DYN.TFRT.IN?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 34500,
+    "sha256": "59eb72ed1cf8bf5ce2602c29e875c21ca93185489a4497145416dee59caee90d"
+  },
+  {
+    "file": "data/raw/wdi_SP.POP.65UP.TO.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SP.POP.65UP.TO.ZS?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 38608,
+    "sha256": "eefbef380859eed2a1cd3d9c38595a2c9f632239ffed481af4224539fe957410"
+  },
+  {
+    "file": "data/raw/wdi_SP.POP.TOTL.FE.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR;USA;CAN;GBR/indicator/SP.POP.TOTL.FE.ZS?format=json&date=2000:2025&per_page=20000",
+    "accessed": "2026-10-28",
+    "bytes": 37052,
+    "sha256": "4a972cfdb84168c16acc9b2eb6bdf296038b0c62ad3076e0250666fc7d0a032a"
+  }
+]

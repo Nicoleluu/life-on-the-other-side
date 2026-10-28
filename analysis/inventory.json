@@ -1,0 +1,151 @@
+[
+  {
+    "file": "wdi_country_year.csv",
+    "rows": 2028,
+    "columns": 11,
+    "column_names": [
+      "iso3",
+      "country",
+      "year",
+      "indicator",
+      "indicator_name",
+      "value",
+      "unit",
+      "obs_status",
+      "source_id",
+      "source_updated",
+      "accessed"
+    ]
+  },
+  {
+    "file": "wdi_latest_common_year.csv",
+    "rows": 78,
+    "columns": 12,
+    "column_names": [
+      "iso3",
+      "country",
+      "year",
+      "indicator",
+      "indicator_name",
+      "value",
+      "unit",
+      "obs_status",
+      "source_id",
+      "source_updated",
+      "accessed",
+      "comparison_year"
+    ]
+  },
+  {
+    "file": "consumption_price_levels.csv",
+    "rows": 156,
+    "columns": 7,
+    "column_names": [
+      "iso3",
+      "country",
+      "year",
+      "consumption_ppp_lcu_per_int_dollar",
+      "exchange_lcu_per_usd",
+      "ppp_exchange_ratio",
+      "relative_price_level_us_100"
+    ]
+  },
+  {
+    "file": "gender_social_norms.csv",
+    "rows": 18,
+    "columns": 12,
+    "column_names": [
+      "iso3",
+      "country",
+      "sex",
+      "survey_period",
+      "uk_missing_component_assumption",
+      "at_least_one_bias_pct",
+      "at_least_two_biases_pct",
+      "no_bias_pct",
+      "political_bias_pct",
+      "educational_bias_pct",
+      "economic_bias_pct",
+      "physical_integrity_bias_pct"
+    ]
+  },
+  {
+    "file": "time_use.csv",
+    "rows": 90,
+    "columns": 14,
+    "column_names": [
+      "DATAFLOW",
+      "REF_AREA",
+      "MEASURE",
+      "SEX",
+      "OBS_VALUE",
+      "DECIMALS",
+      "OBS_STATUS",
+      "UNIT_MEASURE",
+      "UNIT_MULT",
+      "country",
+      "survey_period",
+      "age_reference",
+      "activity",
+      "sex_label"
+    ]
+  },
+  {
+    "file": "annual_wages_ppp.csv",
+    "rows": 130,
+    "columns": 15,
+    "column_names": [
+      "DATAFLOW",
+      "REF_AREA",
+      "MEASURE",
+      "UNIT_MEASURE",
+      "PAY_PERIOD",
+      "PRICE_BASE",
+      "AGGREGATION_OPERATION",
+      "SEX",
+      "TIME_PERIOD",
+      "OBS_VALUE",
+      "BASE_PER",
+      "OBS_STATUS",
+      "UNIT_MULT",
+      "DECIMALS",
+      "country"
+    ]
+  },
+  {
+    "file": "restaurant_pilot.csv",
+    "rows": 10478,
+    "columns": 12,
+    "column_names": [
+      "iso3",
+      "city",
+      "osm_type",
+      "osm_id",
+      "name",
+      "cuisine_raw",
+      "lat",
+      "lon",
+      "radius_m",
+      "center_lat",
+      "center_lon",
+      "snapshot_utc"
+    ]
+  },
+  {
+    "file": "marriage_milestones.csv",
+    "rows": 5,
+    "columns": 10,
+    "column_names": [
+      "iso3",
+      "country",
+      "jurisdiction",
+      "event_date",
+      "event_type",
+      "event",
+      "source_organization",
+      "source_url",
+      "accessed",
+      "coverage_note"
+    ]
+  }
+]

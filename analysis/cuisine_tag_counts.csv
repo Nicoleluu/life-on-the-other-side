@@ -1,0 +1,630 @@
+city,cuisine,tag_occurrences
+Beijing,american,1
+Beijing,asian,4
+Beijing,barbecue,2
+Beijing,beef_bowl,1
+Beijing,burger,1
+Beijing,chicken,1
+Beijing,chinese,56
+Beijing,curry,1
+Beijing,dumplings,1
+Beijing,fish_and_chips,1
+Beijing,french,1
+Beijing,hot_pot,1
+Beijing,hotpot,7
+Beijing,japanese,1
+Beijing,korean,1
+Beijing,local,1
+Beijing,noodle,8
+Beijing,noodles,6
+Beijing,oriental,1
+Beijing,peking_duck,1
+Beijing,pizza,5
+Beijing,ramen,1
+Beijing,roasted_duck,1
+Beijing,russian,1
+Beijing,taiwanese,1
+Beijing,western,1
+London,african,2
+London,american,14
+London,arab,1
+London,argentinian,6
+London,asian,39
+London,asian_fusion,1
+London,australian,1
+London,austrian,1
+London,barbecue,4
+London,brasserie,2
+London,brazilian,3
+London,breakfast,4
+London,british,28
+London,british_restaurant,1
+London,brunch,1
+London,buffet,1
+London,burger,39
+London,cafe,1
+London,cake,1
+London,cantonese,3
+London,caribbean,3
+London,catalan,1
+London,chicken,23
+London,chinese,106
+London,coffee_shop,5
+London,curry,2
+London,cypriot,1
+London,danish,1
+London,dessert,1
+London,dinner,1
+London,dumplings,1
+London,dutch,1
+London,english,3
+London,european,7
+London,filipino,3
+London,fine_dining,12
+London,fish,4
+London,fish_and_chips,8
+London,fit_food,1
+London,french,40
+London,fusion,3
+London,greek,17
+London,grill,9
+London,hawaiian,2
+London,hot_pot,2
+London,hotpot,2
+London,hungarian,1
+London,ice_cream,1
+London,indian,64
+London,indonesian,5
+London,international,15
+London,irish,1
+London,italian,152
+London,italian_pizza,4
+London,japan,1
+London,japanese,86
+London,kebab,4
+London,korean,34
+London,latin_american,1
+London,lebanese,18
+London,live_music_venue,1
+London,lobster,1
+London,local,2
+London,lunch,1
+London,macaroons,1
+London,malatang,2
+London,malaysian,11
+London,mediterranean,24
+London,mexican,18
+London,middle_eastern,2
+London,modern european,1
+London,mongolian,1
+London,moroccan,1
+London,nigerian,1
+London,noodle,7
+London,noodles,1
+London,nordic,1
+London,oriental_fusion,1
+London,palestinian,1
+London,pan_asian,1
+London,pancake,1
+London,pasta,7
+London,persian,2
+London,peruvian,6
+London,philadelphia,1
+London,pho,1
+London,pizza,63
+London,polish,2
+London,portuguese,13
+London,ramen,24
+London,regional,3
+London,russian,1
+London,salad,1
+London,salt_beef,1
+London,sandwich,6
+London,sardinian,1
+London,seafood,14
+London,sichuan,3
+London,singaporean,1
+London,spanish,25
+London,sri_lankan,2
+London,steak,5
+London,steak_house,24
+London,sus,1
+London,sushi,32
+London,syrian,2
+London,taiwanese,6
+London,tapas,4
+London,tea,2
+London,tea_house,1
+London,teppanyaki,2
+London,tex-mex,2
+London,thai,31
+London,turkish,13
+London,udon,1
+London,uyghur,1
+London,vietnamese,19
+London,west_african,1
+New York,albanian,1
+New York,american,85
+New York,arab,2
+New York,argentinian,4
+New York,asian,36
+New York,australian,4
+New York,austrian,2
+New York,bagel,3
+New York,bar,1
+New York,barbecue,11
+New York,basque,2
+New York,belgian,1
+New York,bistro,1
+New York,breakfast,14
+New York,british,1
+New York,brunch,14
+New York,bubble_tea,1
+New York,burger,23
+New York,burmese,1
+New York,cajun,1
+New York,cantonese,2
+New York,caribbean,6
+New York,charcuterie,1
+New York,chicken,9
+New York,chimaek,1
+New York,chinese,128
+New York,cocktails,1
+New York,coffee,5
+New York,coffee_shop,3
+New York,colombian,1
+New York,continental,7
+New York,crepe,1
+New York,cuban,5
+New York,deli,3
+New York,dessert,1
+New York,dim_sum,4
+New York,diner,18
+New York,dominican,1
+New York,dumpling,4
+New York,dumplings,1
+New York,eastern_european,2
+New York,eclectic,11
+New York,egyptian,1
+New York,ethiopian,2
+New York,filipino,5
+New York,fine_dining,3
+New York,fish,1
+New York,fondue,1
+New York,french,35
+New York,fries,1
+New York,galician,1
+New York,gastropub,2
+New York,georgian,9
+New York,german,2
+New York,gimbap,1
+New York,greek,10
+New York,grill,1
+New York,hawaiian,1
+New York,health_food,1
+New York,hispanic,1
+New York,hotpot,1
+New York,indian,54
+New York,indonesian,1
+New York,international,1
+New York,irish,2
+New York,israeli,2
+New York,italian,152
+New York,italian_pizza,3
+New York,japanese,102
+New York,jewish,1
+New York,kebab,3
+New York,kimbap,1
+New York,korean,63
+New York,latin_american,5
+New York,lebanese,6
+New York,macaroni_and_cheese,1
+New York,malaysian,5
+New York,mediterranean,38
+New York,mediterranean_restaurant,1
+New York,mexican,57
+New York,middle_eastern,14
+New York,moroccan,2
+New York,nepalese,1
+New York,new_american,4
+New York,noodle,10
+New York,nordic,1
+New York,oriental,1
+New York,oyster,1
+New York,pakistani,1
+New York,palestinian,1
+New York,pancake,2
+New York,pasta,4
+New York,persian,3
+New York,peruvian,3
+New York,pizza,89
+New York,poke,1
+New York,polish,1
+New York,portuguese,2
+New York,pub,6
+New York,puerto_rican,1
+New York,ramen,18
+New York,rice_noodle,3
+New York,russian,3
+New York,salad,6
+New York,sandwich,10
+New York,seafood,31
+New York,serbian,1
+New York,sichuan,1
+New York,sicilian,1
+New York,snack,1
+New York,soul_food,1
+New York,soup,2
+New York,south_asian,1
+New York,southern,2
+New York,spanish,10
+New York,steak,2
+New York,steak_house,10
+New York,sushi,70
+New York,tacos,2
+New York,taiwanese,1
+New York,tapas,7
+New York,teriyaki,1
+New York,tex-mex,1
+New York,texan,1
+New York,thai,49
+New York,tibetan,1
+New York,trattoria,1
+New York,turkish,6
+New York,tuscan,1
+New York,udon,1
+New York,ukrainian,3
+New York,uruguayan,1
+New York,venezuelan,1
+New York,vietnamese,27
+New York,wine,2
+New York,wings,1
+Seoul,american,5
+Seoul,asian,20
+Seoul,bagel,2
+Seoul,barbecue,13
+Seoul,beef_bowl,2
+Seoul,braised_spicy_chicken_with_vegetables,1
+Seoul,breakfast,3
+Seoul,buddhist_cuisine,1
+Seoul,buffet,2
+Seoul,burger,6
+Seoul,buschenschank,1
+Seoul,chicken,9
+Seoul,chicken_soup_with_ginseng_(and_other_ingredients),1
+Seoul,chinese,41
+Seoul,coffee_shop,3
+Seoul,congee,1
+Seoul,curry,3
+Seoul,dak_gangjeong_(sweet_and_sour_chicken),1
+Seoul,deli,2
+Seoul,dessert,1
+Seoul,doenjang_jjigae,1
+Seoul,dongaseu,1
+Seoul,dumplings,3
+Seoul,fast_food,2
+Seoul,fine_dining,1
+Seoul,fish,2
+Seoul,french,7
+Seoul,fried_rice,1
+Seoul,german,1
+Seoul,gimbap,3
+Seoul,grill,1
+Seoul,hotpot,1
+Seoul,indian,8
+Seoul,international,1
+Seoul,italian,28
+Seoul,italian_pizza,4
+Seoul,jajangmyeon,1
+Seoul,japanese,53
+Seoul,juk,1
+Seoul,kebab,1
+Seoul,kimchi,1
+Seoul,kimchi_fried_rice,1
+Seoul,kimchi_jjigae,1
+Seoul,kimchi_stue,1
+Seoul,korean,218
+Seoul,"korean,_vegetable_cuisine",1
+Seoul,korean_bbq,1
+Seoul,korean_food,1
+Seoul,korean_table_d'hote_(han-jeongsik),1
+Seoul,local,5
+Seoul,lunch,1
+Seoul,malatang,1
+Seoul,meat,1
+Seoul,mexican,23
+Seoul,naegmyeon,1
+Seoul,noodle,15
+Seoul,noodles,1
+Seoul,north_korean_food,1
+Seoul,oriental,1
+Seoul,pasta,3
+Seoul,pizza,16
+Seoul,pork_bbq,1
+Seoul,porridge,1
+Seoul,rabokki,1
+Seoul,ramen,7
+Seoul,regional,2
+Seoul,salad,1
+Seoul,sandwich,1
+Seoul,sashimi,1
+Seoul,sausage,1
+Seoul,seafood,7
+Seoul,slightly_sliced_beef_&_chopped_noodles,1
+Seoul,steak,3
+Seoul,steak_house,2
+Seoul,sundubu_jjigae,1
+Seoul,sushi,13
+Seoul,taiwanese,1
+Seoul,thai,1
+Seoul,tofu,1
+Seoul,traditional,2
+Seoul,tripe_(gopchang),2
+Seoul,tteokbokki,1
+Seoul,vietnamese,10
+Seoul,yakiniku,1
+Seoul,간장게장,1
+Seoul,간장게장정식,1
+Seoul,갈치조림,2
+Seoul,감자국,1
+Seoul,게장,1
+Seoul,고등어구이,1
+Seoul,골뱅이,1
+Seoul,굴비구이반상,1
+Seoul,굴전,1
+Seoul,김치찌개,1
+Seoul,냉면,2
+Seoul,다이어트,1
+Seoul,닭곰탕,1
+Seoul,닭볶음탕,1
+Seoul,도가니탕,1
+Seoul,돼지구이,1
+Seoul,된장정식,1
+Seoul,두개장정식,1
+Seoul,떡만두국,1
+Seoul,막국수,1
+Seoul,만두전골,1
+Seoul,만둣국,1
+Seoul,백숙백반,1
+Seoul,버섯전골,1
+Seoul,보쌈,1
+Seoul,보양식_런치,1
+Seoul,복어요리,1
+Seoul,북어해장국,1
+Seoul,불구이쌈밥,1
+Seoul,사골곰탕,1
+Seoul,사골칼국수,1
+Seoul,삼겹살,4
+Seoul,생선조림,1
+Seoul,서양식,6
+Seoul,설렁탕,1
+Seoul,순녹두빈대떡,1
+Seoul,순두부,1
+Seoul,순두부강된장비빔밥,1
+Seoul,안심생면쌀국수,1
+Seoul,양념게장정식,1
+Seoul,양지생면쌀국수,1
+Seoul,왕만두,2
+Seoul,왕만두국,1
+Seoul,우렁된장찌개,1
+Seoul,원조빈대떡,1
+Seoul,유럽요리,1
+Seoul,육회,1
+Seoul,일본식_프랑스_요리,1
+Seoul,일식,1
+Seoul,전복구이반상,1
+Seoul,조개탕,1
+Seoul,족발,1
+Seoul,중식,5
+Seoul,중화볶음우동,1
+Seoul,차동생면쌀국수,1
+Seoul,카페,1
+Seoul,칼국수,3
+Seoul,콩국수,1
+Seoul,콩비지,1
+Seoul,통닭_백숙,1
+Seoul,한우,1
+Seoul,한우등심구이반상,1
+Seoul,할랄,1
+Seoul,항아리수제비,1
+Seoul,해물파전,2
+Seoul,호프/통닭,1
+Seoul,홍어삼합,1
+Tokyo,american,5
+Tokyo,asian,9
+Tokyo,barbecue,31
+Tokyo,beef,1
+Tokyo,beef_bowl,1
+Tokyo,breakfast,1
+Tokyo,burger,9
+Tokyo,chicken,3
+Tokyo,chinese,136
+Tokyo,coffee_shop,2
+Tokyo,curry,49
+Tokyo,fine_dining,1
+Tokyo,fish,7
+Tokyo,french,26
+Tokyo,friture,33
+Tokyo,german,3
+Tokyo,grill,3
+Tokyo,gyoza,5
+Tokyo,gyutan,1
+Tokyo,hamburger,1
+Tokyo,health_food,1
+Tokyo,iekei,1
+Tokyo,indian,38
+Tokyo,indonesian,1
+Tokyo,international,3
+Tokyo,italian,66
+Tokyo,italian_pizza,1
+Tokyo,izakaya,2
+Tokyo,japanese,307
+Tokyo,"japanese,tenpura",1
+Tokyo,katsudon,2
+Tokyo,kebab,2
+Tokyo,korean,11
+Tokyo,local,2
+Tokyo,maid_cafe,1
+Tokyo,meat,2
+Tokyo,mexican,10
+Tokyo,moroccan,2
+Tokyo,myanmar,1
+Tokyo,nepalese,1
+Tokyo,noodle,48
+Tokyo,noodles,10
+Tokyo,okonomiyaki,3
+Tokyo,pancake,1
+Tokyo,pasta,7
+Tokyo,pizza,7
+Tokyo,ramen,120
+Tokyo,regional,13
+Tokyo,russian,2
+Tokyo,salad,1
+Tokyo,sashimi,1
+Tokyo,savory_pancakes,2
+Tokyo,seafood,24
+Tokyo,shabushabu,1
+Tokyo,singaporean,1
+Tokyo,soba,27
+Tokyo,spanish,4
+Tokyo,steak_house,19
+Tokyo,sukiyaki,1
+Tokyo,sushi,107
+Tokyo,tacos,1
+Tokyo,taiwanese,4
+Tokyo,tea,1
+Tokyo,teahouse,1
+Tokyo,tempra,1
+Tokyo,tempura,4
+Tokyo,tenpura,1
+Tokyo,tex-mex,1
+Tokyo,thai,16
+Tokyo,tofu,1
+Tokyo,tonkatsu,2
+Tokyo,tsukemen,2
+Tokyo,turkish,3
+Tokyo,udon,12
+Tokyo,unagi,2
+Tokyo,vegetables,1
+Tokyo,vietnamese,5
+Tokyo,western,9
+Tokyo,yakiniku,1
+Tokyo,yakitori,3
+Tokyo,うなぎ,1
+Tokyo,みそかつ,1
+Tokyo,イタリアン,1
+Tokyo,オールデイダイニング,1
+Tokyo,カレー,2
+Tokyo,クラフトビアレストラン,1
+Tokyo,スペイン料理,1
+Tokyo,パキスタン,1
+Tokyo,フレンチ,1
+Tokyo,フレンチ串揚げ,1
+Tokyo,中華,1
+Tokyo,刀削麺,1
+Tokyo,天婦羅,1
+Tokyo,広島焼き,1
+Tokyo,海鮮・日本酒・居酒屋,1
+Tokyo,火鍋,1
+Tokyo,焼肉,3
+Tokyo,鉄板焼,2
+Tokyo,餃子,2
+Tokyo,鶏料理,1
+Toronto,afghan,1
+Toronto,african,2
+Toronto,american,20
+Toronto,arab,3
+Toronto,argentinian,1
+Toronto,asian,10
+Toronto,banh_mi,1
+Toronto,bar_and_grill,4
+Toronto,barbecue,5
+Toronto,belgian,1
+Toronto,breakfast,11
+Toronto,brunch,1
+Toronto,burger,17
+Toronto,cafe,1
+Toronto,canadian,1
+Toronto,cantonese,1
+Toronto,caribbean,3
+Toronto,chicken,19
+Toronto,chinese,66
+Toronto,coffee,1
+Toronto,coffee_shop,3
+Toronto,curry,1
+Toronto,dessert,1
+Toronto,dim_sum,2
+Toronto,diner,3
+Toronto,donut,1
+Toronto,dumplings,2
+Toronto,ethiopian,2
+Toronto,filipino,2
+Toronto,fine_dining,1
+Toronto,fish,1
+Toronto,fish_and_chips,2
+Toronto,french,8
+Toronto,fried_chicken,1
+Toronto,fries,1
+Toronto,german,2
+Toronto,greek,3
+Toronto,grill,4
+Toronto,hakka,3
+Toronto,hawaiian,1
+Toronto,hong_kong,1
+Toronto,hotpot,2
+Toronto,hungarian,1
+Toronto,ice_cream,1
+Toronto,indian,32
+Toronto,indonesian,2
+Toronto,international,5
+Toronto,italian,37
+Toronto,italian_pizza,1
+Toronto,jamaican,2
+Toronto,japanese,62
+Toronto,kebab,4
+Toronto,korean,23
+Toronto,lebanese,5
+Toronto,local,1
+Toronto,malaysian,2
+Toronto,mediterranean,9
+Toronto,mexican,18
+Toronto,middle_eastern,5
+Toronto,moroccan,2
+Toronto,nepalese,1
+Toronto,noodle,7
+Toronto,organic,1
+Toronto,pakistani,1
+Toronto,pancake,2
+Toronto,pasta,1
+Toronto,persian,4
+Toronto,peruvian,1
+Toronto,phillipines,1
+Toronto,pizza,22
+Toronto,poke,1
+Toronto,portuguese,1
+Toronto,ramen,15
+Toronto,regional,6
+Toronto,salad,10
+Toronto,sandwich,6
+Toronto,sausage,2
+Toronto,seafood,7
+Toronto,shawarma,3
+Toronto,somalian,2
+Toronto,soup,1
+Toronto,south_east_asian,1
+Toronto,spanish,2
+Toronto,sports_bar,1
+Toronto,sri_lankan,1
+Toronto,steak,3
+Toronto,steak_house,11
+Toronto,sushi,39
+Toronto,tacos,1
+Toronto,taiwanese,2
+Toronto,teppanyaki,1
+Toronto,thai,22
+Toronto,turkish,1
+Toronto,udon,1
+Toronto,uyghur,1
+Toronto,vietnamese,23
+Toronto,waffle,1
+Toronto,western,1

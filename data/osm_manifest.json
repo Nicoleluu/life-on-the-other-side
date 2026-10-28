@@ -1,0 +1,80 @@
+[
+  {
+    "file": "data/raw/osm_CHN.json",
+    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22restaurant%22%5D%28around%3A2000%2C39.9042%2C116.4074%29%3Bout%20center%20tags%3B",
+    "accessed": "2026-10-28",
+    "bytes": 45778,
+    "sha256": "041e39fe651a9c666a1a9c2bbf75493174088be80160c6b8008f0fa470d6d77e",
+    "city": "Beijing",
+    "iso3": "CHN",
+    "center_lat": 39.9042,
+    "center_lon": 116.4074,
+    "radius_m": 2000,
+    "query": "[out:json][timeout:60];nwr[\"amenity\"=\"restaurant\"](around:2000,39.9042,116.4074);out center tags;"
+  },
+  {
+    "file": "data/raw/osm_JPN.json",
+    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22restaurant%22%5D%28around%3A2000%2C35.6812%2C139.7671%29%3Bout%20center%20tags%3B",
+    "accessed": "2026-10-28",
+    "bytes": 481261,
+    "sha256": "b559a7b7880f7649301fc3bef2714fbc3c2e70b1ca0399e076d806328943ab22",
+    "city": "Tokyo",
+    "iso3": "JPN",
+    "center_lat": 35.6812,
+    "center_lon": 139.7671,
+    "radius_m": 2000,
+    "query": "[out:json][timeout:60];nwr[\"amenity\"=\"restaurant\"](around:2000,35.6812,139.7671);out center tags;"
+  },
+  {
+    "file": "data/raw/osm_KOR.json",
+    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22restaurant%22%5D%28around%3A2000%2C37.5665%2C126.978%29%3Bout%20center%20tags%3B",
+    "accessed": "2026-10-28",
+    "bytes": 1550339,
+    "sha256": "44a0a250eb86217061ddd59a834c6fc385b43a386d2f1718d1c1b5ab1845935b",
+    "city": "Seoul",
+    "iso3": "KOR",
+    "center_lat": 37.5665,
+    "center_lon": 126.978,
+    "radius_m": 2000,
+    "query": "[out:json][timeout:60];nwr[\"amenity\"=\"restaurant\"](around:2000,37.5665,126.978);out center tags;"
+  },
+  {
+    "file": "data/raw/osm_USA.json",
+    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22restaurant%22%5D%28around%3A2000%2C40.7306%2C-73.9866%29%3Bout%20center%20tags%3B",
+    "accessed": "2026-10-28",
+    "bytes": 651179,
+    "sha256": "306fe345190fe1985a6977283d0802bf83c2b5dd00195e862dfe32bdf81010f8",
+    "city": "New York",
+    "iso3": "USA",
+    "center_lat": 40.7306,
+    "center_lon": -73.9866,
+    "radius_m": 2000,
+    "query": "[out:json][timeout:60];nwr[\"amenity\"=\"restaurant\"](around:2000,40.7306,-73.9866);out center tags;"
+  },
+  {
+    "file": "data/raw/osm_CAN.json",
+    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22restaurant%22%5D%28around%3A2000%2C43.6532%2C-79.3832%29%3Bout%20center%20tags%3B",
+    "accessed": "2026-10-28",
+    "bytes": 328493,
+    "sha256": "76754fa7c888085c568634055f59ed50eb3f5480364d178567ba99e317b568f5",
+    "city": "Toronto",
+    "iso3": "CAN",
+    "center_lat": 43.6532,
+    "center_lon": -79.3832,
+    "radius_m": 2000,
+    "query": "[out:json][timeout:60];nwr[\"amenity\"=\"restaurant\"](around:2000,43.6532,-79.3832);out center tags;"
+  },
+  {
+    "file": "data/raw/osm_GBR.json",
+    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22restaurant%22%5D%28around%3A2000%2C51.5074%2C-0.1278%29%3Bout%20center%20tags%3B",
+    "accessed": "2026-10-28",
+    "bytes": 769457,
+    "sha256": "2989b150e95bf9719632ebe3bcd78a8479aa6b8395a941c16a5d7eadf70a1fc5",
+    "city": "London",
+    "iso3": "GBR",
+    "center_lat": 51.5074,
+    "center_lon": -0.1278,
+    "radius_m": 2000,
+    "query": "[out:json][timeout:60];nwr[\"amenity\"=\"restaurant\"](around:2000,51.5074,-0.1278);out center tags;"
+  }
+]

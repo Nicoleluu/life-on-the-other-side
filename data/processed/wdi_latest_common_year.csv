@@ -1,0 +1,79 @@
+iso3,country,year,indicator,indicator_name,value,unit,obs_status,source_id,source_updated,accessed,comparison_year
+CAN,Canada,2025,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",57989.5784653558,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",25066.5215296486,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",53993.1172607885,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",48283.3723959465,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",55697.0848086328,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",76931.3106990408,,,2,2026-10-08,2026-10-28,2025
+CAN,Canada,2025,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",1.39810565893901,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",7.18984737402171,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",0.759473957338607,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",149.657926890951,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",1422.44083333333,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",1.0,,,2,2026-10-08,2026-10-28,2025
+CAN,Canada,2025,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",1.260483,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",3.45955804342707,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",0.701529,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",103.33658,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",880.125358,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,PA.NUS.PRVT.PP,"PPP conversion factor, households and NPISHs Final consumption expenditure (LCU per international $)",1.0,,,2,2026-10-08,2026-10-28,2025
+CAN,Canada,2022,SE.TER.ENRR,"School enrollment, tertiary (% gross)",78.8488311767578,,,2,2026-10-08,2026-10-28,2022
+CHN,China,2022,SE.TER.ENRR,"School enrollment, tertiary (% gross)",71.5799465086024,,,2,2026-10-08,2026-10-28,2022
+GBR,United Kingdom,2022,SE.TER.ENRR,"School enrollment, tertiary (% gross)",79.7695083618164,,,2,2026-10-08,2026-10-28,2022
+JPN,Japan,2022,SE.TER.ENRR,"School enrollment, tertiary (% gross)",63.3752288818359,,,2,2026-10-08,2026-10-28,2022
+KOR,South Korea,2022,SE.TER.ENRR,"School enrollment, tertiary (% gross)",102.813056945801,,,2,2026-10-08,2026-10-28,2022
+USA,United States,2022,SE.TER.ENRR,"School enrollment, tertiary (% gross)",79.361930847168,,,2,2026-10-08,2026-10-28,2022
+CAN,Canada,2022,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",92.2443389892578,,,2,2026-10-08,2026-10-28,2022
+CHN,China,2022,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",77.6808223561514,,,2,2026-10-08,2026-10-28,2022
+GBR,United Kingdom,2022,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",92.4416198730469,,,2,2026-10-08,2026-10-28,2022
+JPN,Japan,2022,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",62.4147987365723,,,2,2026-10-08,2026-10-28,2022
+KOR,South Korea,2022,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",94.4947814941406,,,2,2026-10-08,2026-10-28,2022
+USA,United States,2022,SE.TER.ENRR.FE,"School enrollment, tertiary, female (% gross)",94.8502197265625,,,2,2026-10-08,2026-10-28,2022
+CAN,Canada,2022,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",66.3064575195312,,,2,2026-10-08,2026-10-28,2022
+CHN,China,2022,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",66.3548282426557,,,2,2026-10-08,2026-10-28,2022
+GBR,United Kingdom,2022,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",67.5592575073242,,,2,2026-10-08,2026-10-28,2022
+JPN,Japan,2022,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",64.2925262451172,,,2,2026-10-08,2026-10-28,2022
+KOR,South Korea,2022,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",110.490013122559,,,2,2026-10-08,2026-10-28,2022
+USA,United States,2022,SE.TER.ENRR.MA,"School enrollment, tertiary, male (% gross)",64.5381774902344,,,2,2026-10-08,2026-10-28,2022
+CAN,Canada,2020,SI.POV.GINI,Gini index,29.9,,,2,2026-10-08,2026-10-28,2020
+CHN,China,2020,SI.POV.GINI,Gini index,37.1,,,2,2026-10-08,2026-10-28,2020
+GBR,United Kingdom,2020,SI.POV.GINI,Gini index,32.7,,,2,2026-10-08,2026-10-28,2020
+JPN,Japan,2020,SI.POV.GINI,Gini index,32.3,,,2,2026-10-08,2026-10-28,2020
+KOR,South Korea,2020,SI.POV.GINI,Gini index,32.7,,,2,2026-10-08,2026-10-28,2020
+USA,United States,2020,SI.POV.GINI,Gini index,40.0,,,2,2026-10-08,2026-10-28,2020
+CAN,Canada,2025,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",60.204,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",59.148,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",57.333,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",55.905,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",56.782,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,SL.TLF.CACT.FE.ZS,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",56.343,,,2,2026-10-08,2026-10-28,2025
+CAN,Canada,2025,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",68.937,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",69.851,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",65.596,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",71.478,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",72.002,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,SL.TLF.CACT.MA.ZS,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",67.058,,,2,2026-10-08,2026-10-28,2025
+CAN,Canada,2024,SM.POP.TOTL.ZS,International migrant stock (% of population),22.2,,,2,2026-10-08,2026-10-28,2024
+CHN,China,2024,SM.POP.TOTL.ZS,International migrant stock (% of population),0.1,,,2,2026-10-08,2026-10-28,2024
+GBR,United Kingdom,2024,SM.POP.TOTL.ZS,International migrant stock (% of population),17.1,,,2,2026-10-08,2026-10-28,2024
+JPN,Japan,2024,SM.POP.TOTL.ZS,International migrant stock (% of population),2.8,,,2,2026-10-08,2026-10-28,2024
+KOR,South Korea,2024,SM.POP.TOTL.ZS,International migrant stock (% of population),3.5,,,2,2026-10-08,2026-10-28,2024
+USA,United States,2024,SM.POP.TOTL.ZS,International migrant stock (% of population),15.2,,,2,2026-10-08,2026-10-28,2024
+CAN,Canada,2024,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1.25,,,2,2026-10-08,2026-10-28,2024
+CHN,China,2024,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1.013,,,2,2026-10-08,2026-10-28,2024
+GBR,United Kingdom,2024,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1.551,,,2,2026-10-08,2026-10-28,2024
+JPN,Japan,2024,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1.15,,,2,2026-10-08,2026-10-28,2024
+KOR,South Korea,2024,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",0.748,,,2,2026-10-08,2026-10-28,2024
+USA,United States,2024,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1.6265,,,2,2026-10-08,2026-10-28,2024
+CAN,Canada,2025,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),20.2603673865917,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),14.9114314271952,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),19.7026932546935,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),29.9940966737423,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),20.3304188408974,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),18.387224828496,,,2,2026-10-08,2026-10-28,2025
+CAN,Canada,2025,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",50.3467165845244,,,2,2026-10-08,2026-10-28,2025
+CHN,China,2025,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",49.0932994204747,,,2,2026-10-08,2026-10-28,2025
+GBR,United Kingdom,2025,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",50.7457585427695,,,2,2026-10-08,2026-10-28,2025
+JPN,Japan,2025,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",51.2417386676781,,,2,2026-10-08,2026-10-28,2025
+KOR,South Korea,2025,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",50.1136188806211,,,2,2026-10-08,2026-10-28,2025
+USA,United States,2025,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",49.7526684892276,,,2,2026-10-08,2026-10-28,2025

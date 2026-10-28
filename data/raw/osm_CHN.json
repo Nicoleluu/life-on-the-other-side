@@ -1,0 +1,2300 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-28T19:35:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 984108155,
+  "lat": 39.8916809,
+  "lon": 116.4222442,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "老陕人家手揪面",
+    "name:en": "Laoshan Home Shoujiumian"
+  }
+},
+{
+  "type": "node",
+  "id": 984109321,
+  "lat": 39.8915499,
+  "lon": 116.4223302,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Shitong Tianxiang Zhudu Baoji"
+  }
+},
+{
+  "type": "node",
+  "id": 2126053462,
+  "lat": 39.8980945,
+  "lon": 116.3892702,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "面爱面"
+  }
+},
+{
+  "type": "node",
+  "id": 2126053468,
+  "lat": 39.8959661,
+  "lon": 116.3885568,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Reds"
+  }
+},
+{
+  "type": "node",
+  "id": 2515010944,
+  "lat": 39.9039145,
+  "lon": 116.4254127,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "李先生",
+    "brand:en": "Mr. Lee",
+    "brand:wikidata": "Q6928843",
+    "brand:zh": "李先生",
+    "cuisine": "chinese;noodles",
+    "name": "李先生",
+    "name:en": "Mr. Lee",
+    "name:zh": "李先生",
+    "website": "https://www.mrlee.com.cn"
+  }
+},
+{
+  "type": "node",
+  "id": 2515010973,
+  "lat": 39.9039128,
+  "lon": 116.4251465,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "驴肉火烧"
+  }
+},
+{
+  "type": "node",
+  "id": 2515011084,
+  "lat": 39.9039218,
+  "lon": 116.4255808,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "成都美味"
+  }
+},
+{
+  "type": "node",
+  "id": 3095380629,
+  "lat": 39.9000510,
+  "lon": 116.3939550,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "全聚德",
+    "brand:en": "Quanjude",
+    "brand:wikidata": "Q3269017",
+    "brand:wikipedia": "zh:全聚德",
+    "brand:zh": "全聚德",
+    "cuisine": "chinese",
+    "name": "全聚德",
+    "name:en": "Quanjude",
+    "name:ru": "Ресторан пекинской утки «Цюаньцзюдэ»",
+    "name:zh": "全聚德",
+    "name:zh-Hans": "全聚德烤鸭店",
+    "name:zh-Hant": "全聚德烤鴨店"
+  }
+},
+{
+  "type": "node",
+  "id": 3111874780,
+  "lat": 39.8870305,
+  "lon": 116.4113151,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "大碗居烤鸭店"
+  }
+},
+{
+  "type": "node",
+  "id": 3530332743,
+  "lat": 39.9204809,
+  "lon": 116.4110341,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "新疆菜",
+    "name:en": "Xinjiang Food",
+    "name:zh": "新疆菜"
+  }
+},
+{
+  "type": "node",
+  "id": 3530332748,
+  "lat": 39.9205358,
+  "lon": 116.4110632,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;korean",
+    "name:en": "Restaurant 9"
+  }
+},
+{
+  "type": "node",
+  "id": 3666930177,
+  "lat": 39.9002239,
+  "lon": 116.3957067,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Lost Heaven",
+    "name:en": "Lost Heaven",
+    "name:ja": "ロスト・ヘブン",
+    "name:ru": "Потерянный Рай",
+    "name:zh": "失落天堂餐馆"
+  }
+},
+{
+  "type": "node",
+  "id": 4159673730,
+  "lat": 39.9140799,
+  "lon": 116.4011190,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Leopard",
+    "name:zh": "金钱豹"
+  }
+},
+{
+  "type": "node",
+  "id": 4167796797,
+  "lat": 39.9169219,
+  "lon": 116.3922372,
+  "tags": {
+    "addr:postcode": "100010",
+    "amenity": "restaurant",
+    "name": "故宫餐厅",
+    "name:en": "Palace Museum Restaurant",
+    "name:zh": "故宫餐厅",
+    "name:zh-Hans": "故宫餐厅",
+    "name:zh-Hant": "故宮餐廳"
+  }
+},
+{
+  "type": "node",
+  "id": 4196580493,
+  "lat": 39.8963093,
+  "lon": 116.3998982,
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "前门",
+    "cuisine": "chinese",
+    "name": "利群烤鸭",
+    "name:en": "Li Qun Roast Duck",
+    "phone": "67025681"
+  }
+},
+{
+  "type": "node",
+  "id": 4213474525,
+  "lat": 39.8957277,
+  "lon": 116.4119460,
+  "tags": {
+    "addr:housenumber": "56",
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4255841289,
+  "lat": 39.9145985,
+  "lon": 116.4056349,
+  "tags": {
+    "addr:housenumber": "88",
+    "addr:street": "王府井大街",
+    "amenity": "restaurant",
+    "brand": "海底捞火锅",
+    "brand:en": "Haidilao Hot Pot",
+    "brand:wikidata": "Q5638920",
+    "brand:wikipedia": "zh:海底捞",
+    "brand:zh": "海底捞火锅",
+    "brand:zh-Hans": "海底捞火锅",
+    "brand:zh-Hant": "海底撈火鍋",
+    "cuisine": "chinese;hotpot",
+    "name": "海底捞火锅",
+    "name:en": "Haidilao Hot Pot",
+    "name:zh": "海底捞火锅",
+    "name:zh-Hans": "海底捞火锅",
+    "name:zh-Hant": "海底撈火鍋",
+    "opening_hours": "Mo-Su 10:30-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4273014499,
+  "lat": 39.8983136,
+  "lon": 116.3883278,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "致美楼饭庄",
+    "name:en": "Zhimeilou Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4301877789,
+  "lat": 39.9133188,
+  "lon": 116.4147103,
+  "tags": {
+    "addr:housenumber": "98",
+    "addr:street": "金宝街",
+    "amenity": "restaurant",
+    "name": "1949-全鸭季(金宝街店)",
+    "name:en": "Duck de chine - 1949 The Hidden City"
+  }
+},
+{
+  "type": "node",
+  "id": 4301877889,
+  "lat": 39.9138657,
+  "lon": 116.4151611,
+  "tags": {
+    "addr:street": "金宝街",
+    "amenity": "restaurant",
+    "name": "大董烤鸭店(金宝汇购物中心店)",
+    "name:en": "Da Dong Roast Duck Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4301877989,
+  "lat": 39.8952903,
+  "lon": 116.3921168,
+  "tags": {
+    "addr:full": "北京市东城区前门大街30号",
+    "addr:housenumber": "30",
+    "addr:street": "前门大街",
+    "amenity": "restaurant",
+    "branch": "前門店",
+    "brand": "全聚德",
+    "brand:en": "Quanjude",
+    "brand:wikidata": "Q3269017",
+    "brand:wikipedia": "zh:全聚德",
+    "brand:zh": "全聚德",
+    "check_date": "2026-09-28",
+    "cuisine": "chinese",
+    "name": "全聚德",
+    "name:en": "Quanjude",
+    "name:zh": "全聚德",
+    "start_date": "1864",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4301895591,
+  "lat": 39.8947299,
+  "lon": 116.3920437,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2026-09-28",
+    "cuisine": "chinese",
+    "name": "都一处",
+    "name:en": "Du Yichu",
+    "name:zh": "都一处",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4337234189,
+  "lat": 39.8950575,
+  "lon": 116.3943515,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "便宜坊",
+    "brand:en": "Bianyifang",
+    "brand:wikidata": "Q1049599",
+    "brand:wikipedia": "zh:便宜坊",
+    "brand:zh": "便宜坊",
+    "cuisine": "chinese",
+    "name": "便宜坊",
+    "name:en": "Bianyifang",
+    "name:zh": "便宜坊",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4337234289,
+  "lat": 39.8969297,
+  "lon": 116.3922737,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Capital M"
+  }
+},
+{
+  "type": "node",
+  "id": 4348076996,
+  "lat": 39.9050238,
+  "lon": 116.4220716,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Old Hong Kong",
+    "name:zh": "老香港"
+  }
+},
+{
+  "type": "node",
+  "id": 4406482695,
+  "lat": 39.9114593,
+  "lon": 116.4119922,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Otto's"
+  }
+},
+{
+  "type": "node",
+  "id": 4406486993,
+  "lat": 39.9108892,
+  "lon": 116.4056481,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "全聚德",
+    "brand:en": "Quanjude",
+    "brand:wikidata": "Q3269017",
+    "brand:wikipedia": "zh:全聚德",
+    "brand:zh": "全聚德",
+    "cuisine": "chinese",
+    "name": "全聚德",
+    "name:en": "Quanjude",
+    "name:ru": "утка по пекински",
+    "name:zh": "全聚德"
+  }
+},
+{
+  "type": "node",
+  "id": 4445933689,
+  "lat": 39.8946744,
+  "lon": 116.3928582,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "hotpot",
+    "name": "百年前门铜锅涮肉",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4450096689,
+  "lat": 39.8955434,
+  "lon": 116.4087770,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "lao noodles",
+    "name:ko": "노북경자장면"
+  }
+},
+{
+  "type": "node",
+  "id": 4450182205,
+  "lat": 39.9169902,
+  "lon": 116.4026358,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "closes at 2100",
+    "name": "四季民福",
+    "name:en": "Siji Minfu",
+    "name:zh": "四季民福"
+  }
+},
+{
+  "type": "node",
+  "id": 4464690691,
+  "lat": 39.9147845,
+  "lon": 116.4046609,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "必胜客",
+    "brand:en": "Pizza Hut",
+    "brand:wikidata": "Q191615",
+    "brand:wikipedia": "zh:必胜客",
+    "brand:zh": "必胜客",
+    "cuisine": "pizza",
+    "internet_access": "wlan",
+    "name": "必胜客",
+    "name:en": "Pizza Hut",
+    "name:zh": "必胜客"
+  }
+},
+{
+  "type": "node",
+  "id": 4486955791,
+  "lat": 39.8956542,
+  "lon": 116.4089231,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Old Beijing",
+    "name:zh": "Old Beijing"
+  }
+},
+{
+  "type": "node",
+  "id": 4510129189,
+  "lat": 39.8957025,
+  "lon": 116.3911987,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "渔米知湘·湘菜"
+  }
+},
+{
+  "type": "node",
+  "id": 4594267391,
+  "lat": 39.9150748,
+  "lon": 116.4142568,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "湯城小廚",
+    "name:en": "canton cuisin"
+  }
+},
+{
+  "type": "node",
+  "id": 4594288990,
+  "lat": 39.9156644,
+  "lon": 116.4137801,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name:en": "Sheng yi yuan"
+  }
+},
+{
+  "type": "node",
+  "id": 4594288992,
+  "lat": 39.9152249,
+  "lon": 116.4141436,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "鮮入為煮",
+    "name:en": "seafood hotpot"
+  }
+},
+{
+  "type": "node",
+  "id": 4693144856,
+  "lat": 39.9135478,
+  "lon": 116.3976701,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4782466523,
+  "lat": 39.9136016,
+  "lon": 116.4059255,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "鼎泰丰",
+    "brand:en": "Din Tai Fung",
+    "brand:wikidata": "Q699142",
+    "brand:zh": "鼎泰丰",
+    "cuisine": "taiwanese",
+    "name": "鼎泰丰",
+    "name:en": "Din Tai Fung",
+    "name:es": "Din Tai Fun",
+    "name:zh": "鼎泰丰"
+  }
+},
+{
+  "type": "node",
+  "id": 4843577723,
+  "lat": 39.9103531,
+  "lon": 116.4254950,
+  "tags": {
+    "addr:street": "Gongyuan 1st Alley",
+    "amenity": "restaurant",
+    "name:en": "Sichuan Provincial Government Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4894718824,
+  "lat": 39.9151779,
+  "lon": 116.4046074,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "米线",
+    "name:en": "Rice Noodle",
+    "name:zh": "米线",
+    "name:zh-Hans": "米线",
+    "name:zh-Hant": "米線"
+  }
+},
+{
+  "type": "node",
+  "id": 4906816622,
+  "lat": 39.8948723,
+  "lon": 116.3920403,
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "前门大街店",
+    "brand": "东来顺",
+    "brand:en": "Dong Lai Shun",
+    "brand:wikidata": "Q10870490",
+    "brand:wikipedia": "zh:东来顺",
+    "brand:zh": "东来顺",
+    "cuisine": "chinese;hotpot",
+    "diet:halal": "only",
+    "name": "东来顺",
+    "name:en": "Dong Lai Shun",
+    "name:zh": "东来顺"
+  }
+},
+{
+  "type": "node",
+  "id": 5071312335,
+  "lat": 39.8947512,
+  "lon": 116.3878409,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "东北囤东北菜"
+  }
+},
+{
+  "type": "node",
+  "id": 5080812687,
+  "lat": 39.8948414,
+  "lon": 116.3878658,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "主食厨房",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5102244323,
+  "lat": 39.9186169,
+  "lon": 116.4200964,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "internet_access": "wlan",
+    "name:en": "Jingfuju Peking Duck"
+  }
+},
+{
+  "type": "node",
+  "id": 5112037523,
+  "lat": 39.9147678,
+  "lon": 116.4023183,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "internet_access": "wlan",
+    "name": "金街小巷餐馆",
+    "name:en": "Jinjie Xiaoxiang",
+    "name:zh": "金街小巷餐馆",
+    "name:zh-Hans": "金街小巷餐馆",
+    "name:zh-Hant": "金街小巷餐館"
+  }
+},
+{
+  "type": "node",
+  "id": 5218181922,
+  "lat": 39.9163989,
+  "lon": 116.4201481,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian;chinese;barbecue;noodles;ramen",
+    "internet_access": "wlan",
+    "name:en": "flat baby sambo shout"
+  }
+},
+{
+  "type": "node",
+  "id": 5271561422,
+  "lat": 39.9175649,
+  "lon": 116.3999323,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 5271578921,
+  "lat": 39.9178279,
+  "lon": 116.3999256,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 5325160321,
+  "lat": 39.9158615,
+  "lon": 116.4202594,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "internet_access": "wlan",
+    "name:en": "WONTON ShangHai (est 1999)"
+  }
+},
+{
+  "type": "node",
+  "id": 5468196622,
+  "lat": 39.9136572,
+  "lon": 116.4056988,
+  "tags": {
+    "addr:city": "北京市",
+    "addr:floor": "6",
+    "addr:housenumber": "138",
+    "addr:street": "王府井大街",
+    "amenity": "restaurant",
+    "branch": "北京新东安（apm）店",
+    "check_date": "2026-09-28",
+    "level": "5",
+    "name": "外婆家",
+    "name:en": "Grandma's Home",
+    "name:zh": "外婆家",
+    "phone": "+86 010-65275115",
+    "website": "http://www.waipojia.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5489274721,
+  "lat": 39.8982866,
+  "lon": 116.3872584,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "老舍茶馆",
+    "name:en": "Lao She's Teahouse",
+    "phone": "+86 10 6302 1717",
+    "website": "https://laosheteahouse.com/",
+    "wikidata": "Q10483705",
+    "wikimedia_commons": "Category:Laoshe Tea House",
+    "wikipedia": "zh:老舍茶馆"
+  }
+},
+{
+  "type": "node",
+  "id": 5499723821,
+  "lat": 39.8972964,
+  "lon": 116.4132294,
+  "tags": {
+    "addr:city": "崇文门外街道",
+    "addr:district": "东城区",
+    "addr:housenumber": "F4",
+    "addr:postcode": "100062",
+    "addr:province": "北京市",
+    "addr:street": "No. 16 Chongwenmen Wai Street",
+    "amenity": "restaurant",
+    "brand": "便宜坊",
+    "brand:en": "Bianyifang",
+    "brand:wikidata": "Q1049599",
+    "brand:zh": "便宜坊",
+    "cuisine": "chinese",
+    "diet:local": "yes",
+    "diet:meat": "yes",
+    "name": "便宜坊",
+    "name:en": "Bianyifang",
+    "name:zh": "便宜坊",
+    "opening_hours": "11:00-21:00",
+    "phone": "+86 10 67112244",
+    "website": "https://www.bianyifang.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5509732623,
+  "lat": 39.9001744,
+  "lon": 116.4157957,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Lao Beijing Zhajiangmian",
+    "opening_hours": "Mo-Su 11:00-14:00,17:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5518766364,
+  "lat": 39.8982807,
+  "lon": 116.3891534,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "必胜客",
+    "brand:en": "Pizza Hut",
+    "brand:wikidata": "Q191615",
+    "brand:wikipedia": "zh:必胜客",
+    "brand:zh": "必胜客",
+    "cuisine": "pizza",
+    "name": "必胜客",
+    "name:en": "Pizza Hut",
+    "name:zh": "必胜客",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5676871421,
+  "lat": 39.9141888,
+  "lon": 116.4019050,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "internet_access": "wlan",
+    "name": "四季民福(王府井东安门店)",
+    "name:en": "Siji Minfu",
+    "opening_hours": "Mo-Su 10:30-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5785996553,
+  "lat": 39.9097911,
+  "lon": 116.4053401,
+  "tags": {
+    "addr:housenumber": "198",
+    "addr:postcode": "100006",
+    "addr:street": "王府井大街",
+    "amenity": "restaurant",
+    "brand": "东来顺",
+    "brand:en": "Dong Lai Shun",
+    "brand:wikidata": "Q10870490",
+    "brand:wikipedia": "zh:东来顺",
+    "brand:zh": "东来顺",
+    "cuisine": "chinese;hotpot",
+    "diet:halal": "only",
+    "name": "东来顺",
+    "name:en": "Dong Lai Shun",
+    "name:zh": "东来顺",
+    "note": "（王府井店）"
+  }
+},
+{
+  "type": "node",
+  "id": 5785996653,
+  "lat": 39.8993693,
+  "lon": 116.3951000,
+  "tags": {
+    "addr:housenumber": "44",
+    "addr:street": "东交民巷",
+    "amenity": "restaurant",
+    "name:en": "best Beijing duck"
+  }
+},
+{
+  "type": "node",
+  "id": 5824592555,
+  "lat": 39.9088947,
+  "lon": 116.4046399,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "大董烤鸭店",
+    "name:en": "Dadong roast duck",
+    "name:zh": "大董烤鸭店"
+  }
+},
+{
+  "type": "node",
+  "id": 5854152361,
+  "lat": 39.9190460,
+  "lon": 116.4051309,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;noodles",
+    "name": "國強蘭州麵館"
+  }
+},
+{
+  "type": "node",
+  "id": 5960549349,
+  "lat": 39.8967429,
+  "lon": 116.3889878,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Ms.Na私房菜·玫瑰烤鸭"
+  }
+},
+{
+  "type": "node",
+  "id": 5972588689,
+  "lat": 39.8981732,
+  "lon": 116.4062234,
+  "tags": {
+    "addr:street": "东打磨厂街",
+    "amenity": "restaurant",
+    "brand": "紫光园",
+    "brand:en": "ZI GUANG YUAN",
+    "brand:wikidata": "Q110351138",
+    "brand:zh": "紫光园",
+    "cuisine": "chinese",
+    "diet:halal": "only",
+    "level": "1",
+    "name": "紫光园",
+    "name:en": "ZI GUANG YUAN",
+    "name:zh": "紫光园"
+  }
+},
+{
+  "type": "node",
+  "id": 6115775058,
+  "lat": 39.8956767,
+  "lon": 116.3904483,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;roasted_duck",
+    "name": "四季民福",
+    "note": "Good Chinese restaurant, good food, cosy room and good service. Very different from the giant tourist restaurants in the surroundings: people there don't push you to hurry up. Price relatively higher than a normal restaurant.",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6126939985,
+  "lat": 39.9145926,
+  "lon": 116.4088878,
+  "tags": {
+    "addr:street": "王府井大街",
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "卡本妮法餐厅",
+    "name:en": "Le Cabernet"
+  }
+},
+{
+  "type": "node",
+  "id": 6127131485,
+  "lat": 39.9143288,
+  "lon": 116.4104829,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Xiulan Xiaoguan (Wangfujing), Beijing"
+  }
+},
+{
+  "type": "node",
+  "id": 6210354485,
+  "lat": 39.8923615,
+  "lon": 116.3913984,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "正阳门小面馆·家常菜"
+  }
+},
+{
+  "type": "node",
+  "id": 6299859601,
+  "lat": 39.9093088,
+  "lon": 116.4003475,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Niuge Chaotzu"
+  }
+},
+{
+  "type": "node",
+  "id": 6302629603,
+  "lat": 39.8947147,
+  "lon": 116.3912527,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "康师傅私房牛肉面(前门店)",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6302637910,
+  "lat": 39.8971191,
+  "lon": 116.3892908,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "祖母的厨房"
+  }
+},
+{
+  "type": "node",
+  "id": 6354050802,
+  "lat": 39.9090501,
+  "lon": 116.4106215,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "呷哺呷哺(东单先锋剧场店)"
+  }
+},
+{
+  "type": "node",
+  "id": 6358611414,
+  "lat": 39.9083034,
+  "lon": 116.4110065,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "汤城小厨"
+  }
+},
+{
+  "type": "node",
+  "id": 6358617592,
+  "lat": 39.9077006,
+  "lon": 116.4106943,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "俏江南",
+    "name": "俏江南"
+  }
+},
+{
+  "type": "node",
+  "id": 6373275944,
+  "lat": 39.9092512,
+  "lon": 116.4041794,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "马路边边串串香",
+    "name:en": "Street Side Hotpot",
+    "name:zh": "马路边边串串香"
+  }
+},
+{
+  "type": "node",
+  "id": 6382781568,
+  "lat": 39.9105872,
+  "lon": 116.4255177,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:vegetarian": "yes",
+    "name": "四川办事处",
+    "name:en": "Sichuan Restaurant",
+    "toilets": "yes",
+    "toilets:access": "permissive"
+  }
+},
+{
+  "type": "node",
+  "id": 6390479986,
+  "lat": 39.8983513,
+  "lon": 116.3869367,
+  "tags": {
+    "addr:street": "前门西大街",
+    "amenity": "restaurant",
+    "check_date": "2026-05-12",
+    "check_date:opening_hours": "2026-05-08",
+    "cuisine": "asian",
+    "diet:vegan": "only",
+    "internet_access": "wlan",
+    "name": "素虎净素",
+    "name:en": "Vege-Tiger Vegan Buffet",
+    "opening_hours": "Mo-Su 11:00-14:00, 17:00-20:30",
+    "self_service": "only"
+  }
+},
+{
+  "type": "node",
+  "id": 6420562009,
+  "lat": 39.9146523,
+  "lon": 116.4053978,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "branch": "王府井银泰i88",
+    "cuisine": "asian;oriental;local",
+    "internet_access": "wlan",
+    "name": "小吊梨汤",
+    "name:zh": "小吊梨汤",
+    "name:zh-Hans": "小吊梨汤",
+    "name:zh-Hant": "小吊梨湯"
+  }
+},
+{
+  "type": "node",
+  "id": 6447820889,
+  "lat": 39.8977614,
+  "lon": 116.3884706,
+  "tags": {
+    "amenity": "restaurant",
+    "name:ja": "点心いっぱい"
+  }
+},
+{
+  "type": "node",
+  "id": 6447831189,
+  "lat": 39.8978173,
+  "lon": 116.3874048,
+  "tags": {
+    "amenity": "restaurant",
+    "name:ja": "ご飯もの"
+  }
+},
+{
+  "type": "node",
+  "id": 6536283669,
+  "lat": 39.8961788,
+  "lon": 116.4113731,
+  "tags": {
+    "addr:street": "崇文门外大街",
+    "amenity": "restaurant",
+    "brand": "海底捞火锅",
+    "brand:en": "Haidilao Hot Pot",
+    "brand:wikidata": "Q5638920",
+    "brand:zh": "海底捞火锅",
+    "brand:zh-Hans": "海底捞火锅",
+    "brand:zh-Hant": "海底撈火鍋",
+    "check_date": "2026-03-04",
+    "check_date:opening_hours": "2026-03-04",
+    "cuisine": "chinese;hot_pot",
+    "internet_access": "wlan",
+    "name": "海底捞火锅",
+    "name:en": "Haidilao Hot Pot",
+    "name:zh": "海底捞火锅",
+    "name:zh-Hans": "海底捞火锅",
+    "name:zh-Hant": "海底撈火鍋",
+    "opening_hours": "Mo-Su 10:00-07:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6594267102,
+  "lat": 39.8991721,
+  "lon": 116.4052782,
+  "tags": {
+    "addr:housenumber": "2号",
+    "addr:street": "前门东大街",
+    "amenity": "restaurant",
+    "description": "素菜饭庄",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "name": "功德林",
+    "name:zh": "功德林",
+    "name:zh-Latn-pinyin": "Gongdelin",
+    "opening_hours": "Mo-Su 10:30-21:00",
+    "phone": "+86 10 6702 0867"
+  }
+},
+{
+  "type": "node",
+  "id": 6594295579,
+  "lat": 39.8955310,
+  "lon": 116.3880379,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "前门烤鸭店",
+    "name:en": "Qianmen Roast Duck"
+  }
+},
+{
+  "type": "node",
+  "id": 6594545782,
+  "lat": 39.9143371,
+  "lon": 116.4105801,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "那家花园餐厅",
+    "name:en": "Najia Garden Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 6621504085,
+  "lat": 39.8949248,
+  "lon": 116.3923458,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "桂味",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6813465111,
+  "lat": 39.8940804,
+  "lon": 116.3920697,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "hotpot",
+    "name": "南门铜锅涮肉"
+  }
+},
+{
+  "type": "node",
+  "id": 6871031086,
+  "lat": 39.9110429,
+  "lon": 116.4044417,
+  "tags": {
+    "addr:city": "东城区",
+    "addr:housenumber": "269",
+    "addr:province": "北京市",
+    "addr:street": "王府井大街 (Wángfǔ jǐng Dàjiē)",
+    "amenity": "restaurant",
+    "email": "cheesecakebej@smartunitedasia.com",
+    "name:en": "The Cheesecake factory",
+    "name:zh": "芝乐坊餐厅",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+86 10 6525 1238",
+    "website": "https://thecheesecakefactory.cn"
+  }
+},
+{
+  "type": "node",
+  "id": 6915210888,
+  "lat": 39.8970969,
+  "lon": 116.3885768,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name:en": "Beijing Hutong Roast Duck",
+    "opening_hours": "Mo-Su 10:30-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7462483028,
+  "lat": 39.9157238,
+  "lon": 116.4097893,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "必胜客",
+    "brand:en": "Pizza Hut",
+    "brand:wikidata": "Q191615",
+    "brand:wikipedia": "zh:必胜客",
+    "brand:zh": "必胜客",
+    "cuisine": "pizza",
+    "name": "必胜客",
+    "name:en": "Pizza Hut",
+    "name:zh": "必胜客"
+  }
+},
+{
+  "type": "node",
+  "id": 7552903501,
+  "lat": 39.9126434,
+  "lon": 116.4046104,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "呷哺呷哺",
+    "brand:en": "Xiabuxiabu",
+    "brand:wikidata": "Q10866036",
+    "brand:wikipedia": "zh:呷哺呷哺",
+    "brand:zh": "呷哺呷哺",
+    "cuisine": "chinese",
+    "name": "呷哺呷哺",
+    "name:en": "Xiabuxiabu",
+    "name:zh": "呷哺呷哺"
+  }
+},
+{
+  "type": "node",
+  "id": 7559886626,
+  "lat": 39.8971420,
+  "lon": 116.4134049,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "呷哺呷哺",
+    "brand:en": "Xiabuxiabu",
+    "brand:wikidata": "Q10866036",
+    "brand:wikipedia": "zh:呷哺呷哺",
+    "brand:zh": "呷哺呷哺",
+    "cuisine": "chinese",
+    "name": "呷哺呷哺",
+    "name:en": "Xiabuxiabu",
+    "name:zh": "呷哺呷哺"
+  }
+},
+{
+  "type": "node",
+  "id": 7591772949,
+  "lat": 39.9161343,
+  "lon": 116.4077665,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 7591784260,
+  "lat": 39.9157277,
+  "lon": 116.4113007,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;noodles",
+    "diet:halal": "only",
+    "name": "尖上尖兰州拉面",
+    "note": "Ranshū ryōri"
+  }
+},
+{
+  "type": "node",
+  "id": 7592109684,
+  "lat": 39.9126029,
+  "lon": 116.4047575,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "和府拉面",
+    "name:en": "Hefu Noodle",
+    "name:zh": "和府拉面"
+  }
+},
+{
+  "type": "node",
+  "id": 8492110927,
+  "lat": 39.9022101,
+  "lon": 116.4238678,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 8684828117,
+  "lat": 39.8956493,
+  "lon": 116.3897286,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "爆肚冯"
+  }
+},
+{
+  "type": "node",
+  "id": 8874407588,
+  "lat": 39.8955289,
+  "lon": 116.3888842,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "陈记卤煮小肠"
+  }
+},
+{
+  "type": "node",
+  "id": 8955697603,
+  "lat": 39.9130241,
+  "lon": 116.4056721,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "level": "6",
+    "name": "PIZZAMARZANO",
+    "name:zh": "比萨玛尚诺"
+  }
+},
+{
+  "type": "node",
+  "id": 9120014682,
+  "lat": 39.8937538,
+  "lon": 116.3914043,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "九门轩烤鸭",
+    "name:en": "Jiumenxuan"
+  }
+},
+{
+  "type": "node",
+  "id": 9500495639,
+  "lat": 39.8948016,
+  "lon": 116.4129866,
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "崇外大街店",
+    "brand": "西部马华",
+    "brand:en": "Western Mahua",
+    "brand:wikidata": "Q108485295",
+    "brand:zh": "西部马华",
+    "cuisine": "chinese",
+    "diet:halal": "only",
+    "name": "西部马华",
+    "name:en": "Western Mahua",
+    "name:zh": "西部马华"
+  }
+},
+{
+  "type": "node",
+  "id": 9634711060,
+  "lat": 39.8969717,
+  "lon": 116.3924643,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "ZAOBAR精酿餐吧"
+  }
+},
+{
+  "type": "node",
+  "id": 9690186486,
+  "lat": 39.9138559,
+  "lon": 116.4040505,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "南城香",
+    "brand:en": "BJNCX",
+    "brand:wikidata": "Q108483950",
+    "brand:zh": "南城香",
+    "brand:zn": "南城香",
+    "cuisine": "chinese",
+    "name": "南城香",
+    "name:en": "BJNCX",
+    "name:zh": "南城香"
+  }
+},
+{
+  "type": "node",
+  "id": 9711342599,
+  "lat": 39.9043470,
+  "lon": 116.4260896,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "便民主食厨房"
+  }
+},
+{
+  "type": "node",
+  "id": 10692223065,
+  "lat": 39.8923347,
+  "lon": 116.4120168,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "必胜客",
+    "brand:en": "Pizza Hut",
+    "brand:wikidata": "Q191615",
+    "brand:zh": "必胜客",
+    "cuisine": "pizza",
+    "name": "必胜客",
+    "name:en": "Pizza Hut",
+    "name:zh": "必胜客"
+  }
+},
+{
+  "type": "node",
+  "id": 10733055557,
+  "lat": 39.9175535,
+  "lon": 116.4089926,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "清真小吃"
+  }
+},
+{
+  "type": "node",
+  "id": 10816336949,
+  "lat": 39.9012670,
+  "lon": 116.4014838,
+  "tags": {
+    "addr:housenumber": "甲23",
+    "addr:street": "东交民巷",
+    "amenity": "restaurant",
+    "name": "东交民巷饭店"
+  }
+},
+{
+  "type": "node",
+  "id": 10844047293,
+  "lat": 39.8969875,
+  "lon": 116.3925777,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "护国寺小吃"
+  }
+},
+{
+  "type": "node",
+  "id": 11126717019,
+  "lat": 39.8955849,
+  "lon": 116.4136040,
+  "tags": {
+    "addr:city": "东城区",
+    "addr:district": "东城区",
+    "addr:housenumber": "132",
+    "addr:province": "北京市",
+    "addr:street": "西花市大街",
+    "amenity": "restaurant",
+    "brand": "李先生",
+    "brand:en": "Mr. Lee",
+    "brand:wikidata": "Q6928843",
+    "brand:zh": "李先生",
+    "cuisine": "chinese;noodles",
+    "name": "李先生",
+    "name:en": "Mr. Lee",
+    "name:zh": "李先生"
+  }
+},
+{
+  "type": "node",
+  "id": 11126717020,
+  "lat": 39.8914519,
+  "lon": 116.4223820,
+  "tags": {
+    "addr:housenumber": "80号",
+    "addr:street": "广渠门内大街",
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "李先生"
+  }
+},
+{
+  "type": "node",
+  "id": 11126874643,
+  "lat": 39.8956775,
+  "lon": 116.4171185,
+  "tags": {
+    "addr:district": "东城区",
+    "addr:housenumber": "80号3-5",
+    "addr:street": "西花市大街",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "diet:halal": "yes",
+    "name": "鸦儿李记涮肉",
+    "opening_hours": "6：00-22：30",
+    "phone": "+86 10 6711 5835",
+    "toilets": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11278457069,
+  "lat": 39.8969136,
+  "lon": 116.4001745,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Li Qun Roast Duck"
+  }
+},
+{
+  "type": "node",
+  "id": 11304310969,
+  "lat": 39.9121190,
+  "lon": 116.4040009,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Mandarin Grill"
+  }
+},
+{
+  "type": "node",
+  "id": 11376997814,
+  "lat": 39.9177295,
+  "lon": 116.4045158,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "紫光园",
+    "brand:en": "ZI GUANG YUAN",
+    "brand:wikidata": "Q110351138",
+    "brand:zh": "紫光园",
+    "cuisine": "chinese",
+    "diet:halal": "only",
+    "name": "紫光园",
+    "name:en": "ZI GUANG YUAN",
+    "name:zh": "紫光园"
+  }
+},
+{
+  "type": "node",
+  "id": 11376997815,
+  "lat": 39.9176318,
+  "lon": 116.4045185,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "城·事爱情麻辣烫"
+  }
+},
+{
+  "type": "node",
+  "id": 11579559779,
+  "lat": 39.9157522,
+  "lon": 116.4124771,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "南城香",
+    "brand:en": "BJNCX",
+    "brand:wikidata": "Q108483950",
+    "brand:zh": "南城香",
+    "cuisine": "chinese",
+    "name": "南城香",
+    "name:en": "BJNCX",
+    "name:zh": "南城香"
+  }
+},
+{
+  "type": "node",
+  "id": 11696509069,
+  "lat": 39.9040494,
+  "lon": 116.4222427,
+  "tags": {
+    "addr:street": "北京站东街",
+    "amenity": "restaurant",
+    "cuisine": "chinese;noodles",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12284676501,
+  "lat": 39.8947463,
+  "lon": 116.3932848,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "hotpot",
+    "name": "聚宝源",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12284677201,
+  "lat": 39.8948308,
+  "lon": 116.3935814,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "锦芳",
+    "name:en": "Jinfang Snack Bar",
+    "name:zh": "锦芳",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12296053901,
+  "lat": 39.8933973,
+  "lon": 116.3914637,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "聚盈烤鸭家常菜"
+  }
+},
+{
+  "type": "node",
+  "id": 12300572901,
+  "lat": 39.8948582,
+  "lon": 116.3914035,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "四季民福烤鸭店",
+    "name:en": "Old Beijing Snacks",
+    "name:zh": "四季民福烤鸭店"
+  }
+},
+{
+  "type": "node",
+  "id": 12467083274,
+  "lat": 39.8896158,
+  "lon": 116.4001081,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "宇飞牛肉面"
+  }
+},
+{
+  "type": "node",
+  "id": 12606935127,
+  "lat": 39.8909949,
+  "lon": 116.4045156,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "呼伦贝尔涮"
+  }
+},
+{
+  "type": "node",
+  "id": 12635645112,
+  "lat": 39.8905153,
+  "lon": 116.4015362,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "烤肉刘"
+  }
+},
+{
+  "type": "node",
+  "id": 12817007501,
+  "lat": 39.8982257,
+  "lon": 116.4119048,
+  "tags": {
+    "addr:city": "崇文门外街道",
+    "addr:district": "东城区",
+    "addr:housenumber": "L4-01",
+    "addr:postcode": "100005",
+    "addr:province": "北京市",
+    "addr:street": "Chongwenmen M-Cube No. 1 Chongwenmen Wai Street",
+    "amenity": "restaurant",
+    "brand": "蓝蛙",
+    "brand:en": "Blue Frog",
+    "brand:wikidata": "Q114448902",
+    "brand:zh": "蓝蛙",
+    "cuisine": "western",
+    "diet:meat": "yes",
+    "name": "蓝蛙",
+    "name:en": "Blue Frog",
+    "name:zh": "蓝蛙",
+    "opening_hours": "10:00-23:00",
+    "phone": "+86 17300133635",
+    "website": "https://www.bluefrog.com.cn"
+  }
+},
+{
+  "type": "node",
+  "id": 12997609801,
+  "lat": 39.9107657,
+  "lon": 116.4119420,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Yonghe king",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12999193901,
+  "lat": 39.9139724,
+  "lon": 116.4032849,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Zhu Xiaoxiao"
+  }
+},
+{
+  "type": "node",
+  "id": 13042228201,
+  "lat": 39.9076704,
+  "lon": 116.4072743,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "喜家德",
+    "name:en": "Dumpling XI",
+    "opening_hours": "Mo-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13088481701,
+  "lat": 39.8991370,
+  "lon": 116.4047821,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "一条龙"
+  }
+},
+{
+  "type": "node",
+  "id": 13091781801,
+  "lat": 39.8972375,
+  "lon": 116.4059882,
+  "tags": {
+    "amenity": "restaurant",
+    "level": "1",
+    "name": "天坛街自助餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 13123298402,
+  "lat": 39.9205026,
+  "lon": 116.4056840,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle"
+  }
+},
+{
+  "type": "node",
+  "id": 13123317901,
+  "lat": 39.9205863,
+  "lon": 116.4115071,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "安微牛肉板面"
+  }
+},
+{
+  "type": "node",
+  "id": 13207036101,
+  "lat": 39.9098939,
+  "lon": 116.4026593,
+  "tags": {
+    "addr:housenumber": "277",
+    "addr:street": "Wangfujing",
+    "amenity": "restaurant",
+    "name": "Hotel Madison"
+  }
+},
+{
+  "type": "node",
+  "id": 13239671019,
+  "lat": 39.9031620,
+  "lon": 116.4241117,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 13429897801,
+  "lat": 39.9136244,
+  "lon": 116.4001046,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "南河沿大街",
+    "amenity": "restaurant",
+    "check_date": "2026-09-11",
+    "name": "八爷涮肉（王府井店）"
+  }
+},
+{
+  "type": "node",
+  "id": 13429899201,
+  "lat": 39.9141413,
+  "lon": 116.4014681,
+  "tags": {
+    "addr:housenumber": "55",
+    "addr:street": "东安门大街",
+    "amenity": "restaurant",
+    "name": "方砖厂69号炸酱面"
+  }
+},
+{
+  "type": "node",
+  "id": 13429900701,
+  "lat": 39.9148089,
+  "lon": 116.4023875,
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "锡拉胡同",
+    "amenity": "restaurant",
+    "name": "河沿肉饼"
+  }
+},
+{
+  "type": "node",
+  "id": 13429903401,
+  "lat": 39.9174377,
+  "lon": 116.4051662,
+  "tags": {
+    "addr:housenumber": "48",
+    "addr:street": "王府井大街",
+    "amenity": "restaurant",
+    "name": "府门京贝簕铜锅涮肉(王府井店)"
+  }
+},
+{
+  "type": "node",
+  "id": 13437189902,
+  "lat": 39.9146932,
+  "lon": 116.4054093,
+  "tags": {
+    "addr:street": "王府井大街",
+    "amenity": "restaurant",
+    "cuisine": "beef_bowl;fish_and_chips;russian",
+    "name:en": "Russian rural cuisine",
+    "name:ru": "Добро пожаловать"
+  }
+},
+{
+  "type": "node",
+  "id": 13458006100,
+  "lat": 39.8875133,
+  "lon": 116.4113044,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Zhiyin",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 13459373801,
+  "lat": 39.8950223,
+  "lon": 116.3916551,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "方砖厂69号炸酱面",
+    "name:en": "Fang Zhuan Chang (Michelin stars)",
+    "name:zh": "方砖厂69号炸酱面",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13482942101,
+  "lat": 39.9116031,
+  "lon": 116.4118222,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "HOTPOT",
+    "name:ru": "Хого (китайский самовар)"
+  }
+},
+{
+  "type": "node",
+  "id": 13525841949,
+  "lat": 39.8946655,
+  "lon": 116.3905816,
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "大栅栏店",
+    "brand": "东来顺",
+    "brand:en": "Dong Lai Shun",
+    "brand:wikidata": "Q10870490",
+    "brand:zh": "东来顺",
+    "cuisine": "chinese;hotpot",
+    "diet:halal": "only",
+    "name": "东来顺",
+    "name:en": "Dong Lai Shun",
+    "name:zh": "东来顺"
+  }
+},
+{
+  "type": "node",
+  "id": 13621792958,
+  "lat": 39.9025363,
+  "lon": 116.4201485,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "南城香",
+    "brand:en": "BJNCX",
+    "brand:wikidata": "Q108483950",
+    "brand:zh": "南城香",
+    "check_date": "2026-03-06",
+    "cuisine": "chinese",
+    "name": "南城香",
+    "name:en": "BJNCX",
+    "name:zh": "南城香"
+  }
+},
+{
+  "type": "node",
+  "id": 13671682602,
+  "lat": 39.9132603,
+  "lon": 116.3965896,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "南池子大街",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "四季民福烤鸭店"
+  }
+},
+{
+  "type": "node",
+  "id": 13720805201,
+  "lat": 39.8972953,
+  "lon": 116.3889448,
+  "tags": {
+    "addr:street": "前门大街",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "internet_access": "wlan",
+    "name:en": "Beijing Pie",
+    "name:zh": "北京烧饼",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 13866549901,
+  "lat": 39.9196932,
+  "lon": 116.4114156,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "西域阿达西美食",
+    "opening_hours": "Mo-Su 10:00-00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13988281401,
+  "lat": 39.9078374,
+  "lon": 116.4109137,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "东长安街",
+    "amenity": "restaurant",
+    "cuisine": "american;burger;chicken",
+    "name": "Popeyes"
+  }
+},
+{
+  "type": "node",
+  "id": 13997698201,
+  "lat": 39.9142058,
+  "lon": 116.4037245,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Нормальный ресторан"
+  }
+},
+{
+  "type": "node",
+  "id": 14125451294,
+  "lat": 39.9176193,
+  "lon": 116.4097707,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:halal": "yes",
+    "name": "清真·鼎源斋涮肉"
+  }
+},
+{
+  "type": "node",
+  "id": 14132697501,
+  "lat": 39.9140030,
+  "lon": 116.4000653,
+  "tags": {
+    "alt_name": "Beijing Dawan ju Restaurant",
+    "alt_name:en": "Beijing Da wan ju Restaurant",
+    "amenity": "restaurant",
+    "name": "Beijing Dawanju Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 14179782583,
+  "lat": 39.9138433,
+  "lon": 116.4046972,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "南门烤鸭"
+  }
+},
+{
+  "type": "node",
+  "id": 14179804706,
+  "lat": 39.9137977,
+  "lon": 116.4075063,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The Woods Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 14179810001,
+  "lat": 39.9108764,
+  "lon": 116.4057418,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "CoCo壹番屋咖喱",
+    "brand:en": "CoCo Ichibanya",
+    "brand:ja": "CoCo壱番屋",
+    "brand:wikidata": "Q5986105",
+    "brand:zh": "CoCo壹番屋咖喱",
+    "cuisine": "curry;japanese",
+    "name": "CoCo壹番屋咖喱",
+    "name:en": "CoCo Ichibanya",
+    "name:ja": "CoCo壱番屋",
+    "name:zh": "CoCo壹番屋咖喱",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 14182048853,
+  "lat": 39.8948470,
+  "lon": 116.4028399,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Yan Garden"
+  }
+},
+{
+  "type": "node",
+  "id": 14182053387,
+  "lat": 39.8943255,
+  "lon": 116.3904167,
+  "tags": {
+    "alt_name:en": "Peking Chamber",
+    "amenity": "restaurant",
+    "cuisine": "peking_duck",
+    "level": "1",
+    "name": "四季民福烤鸭店大栅栏店",
+    "name:en": "Siji Mingfu"
+  }
+},
+{
+  "type": "node",
+  "id": 14182066257,
+  "lat": 39.8938101,
+  "lon": 116.3981791,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Lan banquet"
+  }
+},
+{
+  "type": "node",
+  "id": 14182076742,
+  "lat": 39.8941922,
+  "lon": 116.3981891,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "The banquet 1949"
+  }
+},
+{
+  "type": "node",
+  "id": 14182089972,
+  "lat": 39.8937807,
+  "lon": 116.3984877,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Xun Mansion"
+  }
+},
+{
+  "type": "node",
+  "id": 14182095597,
+  "lat": 39.8950667,
+  "lon": 116.4027608,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Vicini"
+  }
+},
+{
+  "type": "node",
+  "id": 14232203235,
+  "lat": 39.9137181,
+  "lon": 116.4058463,
+  "tags": {
+    "addr:floor": "6",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2026-09-28",
+    "level": "5",
+    "microbrewery": "no",
+    "name": "很久以前",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 14233050053,
+  "lat": 39.8946504,
+  "lon": 116.3939053,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 14233141870,
+  "lat": 39.8948293,
+  "lon": 116.3936195,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "天兴居"
+  }
+},
+{
+  "type": "node",
+  "id": 14233276167,
+  "lat": 39.8957201,
+  "lon": 116.3915975,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle"
+  }
+},
+{
+  "type": "node",
+  "id": 14233281223,
+  "lat": 39.8961110,
+  "lon": 116.3915512,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle"
+  }
+},
+{
+  "type": "node",
+  "id": 14255376001,
+  "lat": 39.9105512,
+  "lon": 116.4056402,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "dumplings",
+    "name": "Deshunyuan (Wangfujing Branch)",
+    "opening_hours": "Mo-Su 07:00-22:30"
+  }
+},
+{
+  "type": "node",
+  "id": 14298370902,
+  "lat": 39.8950392,
+  "lon": 116.4027537,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Vicini"
+  }
+},
+{
+  "type": "node",
+  "id": 14298371002,
+  "lat": 39.8947926,
+  "lon": 116.4028981,
+  "tags": {
+    "amenity": "restaurant",
+    "name:en": "Yan Garden"
+  }
+},
+{
+  "type": "way",
+  "id": 149224183,
+  "center": {
+    "lat": 39.8900233,
+    "lon": 116.4011353
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "赣南人家"
+  }
+},
+{
+  "type": "way",
+  "id": 331760906,
+  "center": {
+    "lat": 39.9101477,
+    "lon": 116.4045388
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese"
+  }
+},
+{
+  "type": "way",
+  "id": 477732092,
+  "center": {
+    "lat": 39.8984494,
+    "lon": 116.3855367
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "泰丰楼"
+  }
+},
+{
+  "type": "way",
+  "id": 491272349,
+  "center": {
+    "lat": 39.8925606,
+    "lon": 116.3943261
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "chinese",
+    "name": "老根山庄"
+  }
+},
+{
+  "type": "way",
+  "id": 909380173,
+  "center": {
+    "lat": 39.9074404,
+    "lon": 116.4027946
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "asian",
+    "name": "金色大厅",
+    "name:en": "Golden Hall",
+    "name:zh": "金色大厅"
+  }
+},
+{
+  "type": "way",
+  "id": 1197831084,
+  "center": {
+    "lat": 39.8965328,
+    "lon": 116.3889503
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1197831085,
+  "center": {
+    "lat": 39.8968483,
+    "lon": 116.3890105
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1197831087,
+  "center": {
+    "lat": 39.8970081,
+    "lon": 116.3898417
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1197831088,
+  "center": {
+    "lat": 39.8967033,
+    "lon": 116.3895689
+  },
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1476164307,
+  "center": {
+    "lat": 39.8890624,
+    "lon": 116.4065394
+  },
+  "tags": {
+    "addr:housenumber": "176",
+    "addr:street": "东晓市街",
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "尹三豆汁"
+  }
+}
+
+  ]
+}

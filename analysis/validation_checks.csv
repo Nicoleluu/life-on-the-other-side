@@ -1,0 +1,22 @@
+dataset,check,count
+wdi_country_year.csv,duplicate primary keys,0
+NY.GDP.PCAP.PP.KD,missing values in requested 2000–2025 panel,0
+PA.NUS.FCRF,missing values in requested 2000–2025 panel,0
+PA.NUS.PRVT.PP,missing values in requested 2000–2025 panel,0
+SE.TER.ENRR,missing values in requested 2000–2025 panel,41
+SE.TER.ENRR.FE,missing values in requested 2000–2025 panel,44
+SE.TER.ENRR.MA,missing values in requested 2000–2025 panel,44
+SI.POV.GINI,missing values in requested 2000–2025 panel,46
+SL.TLF.CACT.FE.ZS,missing values in requested 2000–2025 panel,0
+SL.TLF.CACT.MA.ZS,missing values in requested 2000–2025 panel,0
+SM.POP.TOTL.ZS,missing values in requested 2000–2025 panel,120
+SP.DYN.TFRT.IN,missing values in requested 2000–2025 panel,6
+SP.POP.65UP.TO.ZS,missing values in requested 2000–2025 panel,0
+SP.POP.TOTL.FE.ZS,missing values in requested 2000–2025 panel,0
+wdi_latest_common_year.csv,duplicate primary keys,0
+consumption_price_levels.csv,duplicate primary keys,0
+gender_social_norms.csv,duplicate primary keys,0
+time_use.csv,duplicate primary keys,0
+annual_wages_ppp.csv,duplicate primary keys,0
+restaurant_pilot.csv,duplicate primary keys,0
+marriage_milestones.csv,duplicate jurisdiction and date,0

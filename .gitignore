@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+data/raw/marriage.csv
+data/raw/marriage.metadata.json
