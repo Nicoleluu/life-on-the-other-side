@@ -1,8 +1,8 @@
-# Life on the Other Side
+# Growing Up East and West
 
 Nicole Lu · Data Visualization final project · Fall 2026
 
-How do expectations, institutions and everyday conditions shape growing up in China, Japan, South Korea, the United States, Canada and the United Kingdom?
+How do expectations, institutions and everyday conditions shape growing up in China, Japan, South Korea, the United States and Canada?
 
 ## Final project data submission
 

@@ -1,7 +1,7 @@
 [
   {
     "file": "wdi_country_year.csv",
-    "rows": 2028,
+    "rows": 1690,
     "columns": 11,
     "column_names": [
       "iso3",
@@ -19,7 +19,7 @@
   },
   {
     "file": "wdi_latest_common_year.csv",
-    "rows": 78,
+    "rows": 65,
     "columns": 12,
     "column_names": [
       "iso3",
@@ -38,7 +38,7 @@
   },
   {
     "file": "consumption_price_levels.csv",
-    "rows": 156,
+    "rows": 130,
     "columns": 7,
     "column_names": [
       "iso3",
@@ -52,14 +52,13 @@
   },
   {
     "file": "gender_social_norms.csv",
-    "rows": 18,
-    "columns": 12,
+    "rows": 15,
+    "columns": 11,
     "column_names": [
       "iso3",
       "country",
       "sex",
       "survey_period",
-      "uk_missing_component_assumption",
       "at_least_one_bias_pct",
       "at_least_two_biases_pct",
       "no_bias_pct",
@@ -71,7 +70,7 @@
   },
   {
     "file": "time_use.csv",
-    "rows": 90,
+    "rows": 75,
     "columns": 14,
     "column_names": [
       "DATAFLOW",
@@ -92,7 +91,7 @@
   },
   {
     "file": "annual_wages_ppp.csv",
-    "rows": 130,
+    "rows": 104,
     "columns": 15,
     "column_names": [
       "DATAFLOW",
@@ -114,7 +113,7 @@
   },
   {
     "file": "restaurant_pilot.csv",
-    "rows": 10478,
+    "rows": 8998,
     "columns": 12,
     "column_names": [
       "iso3",
@@ -133,7 +132,7 @@
   },
   {
     "file": "marriage_milestones.csv",
-    "rows": 5,
+    "rows": 2,
     "columns": 10,
     "column_names": [
       "iso3",

@@ -3,14 +3,14 @@ wdi_country_year.csv,duplicate primary keys,0
 NY.GDP.PCAP.PP.KD,missing values in requested 2000–2025 panel,0
 PA.NUS.FCRF,missing values in requested 2000–2025 panel,0
 PA.NUS.PRVT.PP,missing values in requested 2000–2025 panel,0
-SE.TER.ENRR,missing values in requested 2000–2025 panel,41
-SE.TER.ENRR.FE,missing values in requested 2000–2025 panel,44
-SE.TER.ENRR.MA,missing values in requested 2000–2025 panel,44
-SI.POV.GINI,missing values in requested 2000–2025 panel,46
+SE.TER.ENRR,missing values in requested 2000–2025 panel,39
+SE.TER.ENRR.FE,missing values in requested 2000–2025 panel,42
+SE.TER.ENRR.MA,missing values in requested 2000–2025 panel,42
+SI.POV.GINI,missing values in requested 2000–2025 panel,42
 SL.TLF.CACT.FE.ZS,missing values in requested 2000–2025 panel,0
 SL.TLF.CACT.MA.ZS,missing values in requested 2000–2025 panel,0
-SM.POP.TOTL.ZS,missing values in requested 2000–2025 panel,120
-SP.DYN.TFRT.IN,missing values in requested 2000–2025 panel,6
+SM.POP.TOTL.ZS,missing values in requested 2000–2025 panel,100
+SP.DYN.TFRT.IN,missing values in requested 2000–2025 panel,5
 SP.POP.65UP.TO.ZS,missing values in requested 2000–2025 panel,0
 SP.POP.TOTL.FE.ZS,missing values in requested 2000–2025 panel,0
 wdi_latest_common_year.csv,duplicate primary keys,0
